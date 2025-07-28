@@ -1,9 +1,11 @@
-## Quick Links
+# Quick Links
 
-- [Introduction to Data Structures](#introduction-to-data-structures)
-- [Types of Data Structures](#types-of-data-structures)
-- [Subfolders](#subfolders)
-  - Contains different data structure implementations and explanations
+🔹 [Introduction to Data Structures](#introduction-to-data-structures)
+🔹 [Types of Data Structures](#types-of-data-structures)
+🔹 [Subfolders](#-subfolders)
+   ➡️ Contains different data structure implementations and explanations
+
+
 
 # Introduction to Data Structures
 
@@ -17,6 +19,7 @@ Imagine walking into a grocery store where all the products are randomly placed 
 
 Similarly, **data structures organize data in a way that helps programs find and work with information quickly and efficiently.**
 
+[⬆️ ](#quick-links)
 ---
 
 ### Types of Data Structures
@@ -37,6 +40,7 @@ Similarly, **data structures organize data in a way that helps programs find and
 * Examples include trees and graphs.
 * Usually multi-level, with elements branching out in different directions.
 
+[⬆️ ](#quick-links)
 ---
 
 ## 📁 Subfolders
@@ -44,3 +48,9 @@ Similarly, **data structures organize data in a way that helps programs find and
 | Folder Name           | Description                                |
 |-----------------------|--------------------------------------------|
 | [array](array/)       | Array implementations and explanations     |
+
+
+
+
+
+[⬆️ ](#quick-links)
