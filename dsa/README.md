@@ -1,17 +1,14 @@
 # Quick Links
 
-🔹 [Introduction to Data Structures](#introduction-to-data-structures)
-🔹 [Types of Data Structures](#types-of-data-structures)
-🔹 [Subfolders](#-subfolders)
-   ➡️ Contains different data structure implementations and explanations
+➡️ [Introduction to Data Structures](#introduction-to-data-structures)
 
+➡️ [Types of Data Structures](#types-of-data-structures)
 
+➡️ [📁 Subfolders : Contains different data structure implementations and explanations](#-subfolders)
 
 # Introduction to Data Structures
 
 A data structure is basically a way to organize and store data so that it’s easier and faster to work with in programs. When we are programming, we often have to handle large amounts of data. If the data isn’t organized well, finding or updating specific pieces can be slow and inefficient. Organizing data properly makes processing smoother and quicker.
-
----
 
 ### Think of a Grocery Store
 
@@ -20,6 +17,7 @@ Imagine walking into a grocery store where all the products are randomly placed 
 Similarly, **data structures organize data in a way that helps programs find and work with information quickly and efficiently.**
 
 [⬆️ ](#quick-links)
+
 ---
 
 ### Types of Data Structures
@@ -41,6 +39,7 @@ Similarly, **data structures organize data in a way that helps programs find and
 * Usually multi-level, with elements branching out in different directions.
 
 [⬆️ ](#quick-links)
+
 ---
 
 ## 📁 Subfolders
@@ -48,9 +47,6 @@ Similarly, **data structures organize data in a way that helps programs find and
 | Folder Name           | Description                                |
 |-----------------------|--------------------------------------------|
 | [array](array/)       | Array implementations and explanations     |
-
-
-
 
 
 [⬆️ ](#quick-links)
