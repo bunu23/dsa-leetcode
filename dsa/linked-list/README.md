@@ -8,7 +8,7 @@
 # Linked List
 A linked list is a linear data structure consisting of a sequence of nodes. Each node contains data and one or more pointers to the next (and possibly previous) nodes in the sequence.
 
-## Singly Linked List
+## [Singly Linked List](dsa/linked-list/basic/SinglyLinkedList.java)
 A singly linked list is a linear data structure used for storing a collection of nodes, where each node contains:
 1. **Data** (the actual value stored).
 2. **Reference to the next node** in the list.
