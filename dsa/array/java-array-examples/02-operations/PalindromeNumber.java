@@ -43,6 +43,24 @@ public class PalindromeNumber {
   }
 */
 
+/*
+* checking if a given string is palindrome or not
+* 
+* public boolean isPalindrome(String inputString){
+* char[] charArray=inputString.toCharArray();
+* int leftIndex=0;
+* int rightIndex=inputString.length()-1;
+* while(leftIndex<rightIndex){
+* if(charArray[leftIndex]!=charArray[rightIndex]){
+* return false;
+* }
+* leftIndex++;
+* rightIndex--;
+* }
+* return true;
+* }
+* 
+ */
 
     public static void main(String[] args) {
 
@@ -55,3 +73,5 @@ public class PalindromeNumber {
     }
 
 }
+
+
