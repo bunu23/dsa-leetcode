@@ -4,6 +4,7 @@
 
 | #   | 🔗 Problem Link                                             |
 |-----|-------------------------------------------------------------|
+| 2  | [Add Two Numbers](2-add-two-numbers) |
 | 21  | [Merge Two Sorted Lists](21-merge-two-sorted-lists) |
 
 ---
