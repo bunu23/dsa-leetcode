@@ -4,7 +4,7 @@
 
 | #   | 🔗 Problem Link                                             |
 |-----|-------------------------------------------------------------|
-| 21  | [Merge Two Sorted Lists](/21-merge-two-sorted-lists/Solution.java) |
+| 21  | [Merge Two Sorted Lists](21-merge-two-sorted-lists/Solution.java) |
 
 ---
 
