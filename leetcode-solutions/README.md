@@ -2,12 +2,11 @@
 
 ## 📋 Problems Solved
 
-| #   | 🔗 Problem Link                                             |
+| #   | 🔗 Problems Link                                             |
 |-----|-------------------------------------------------------------|
 | 2  | [Add Two Numbers](2-add-two-numbers) |
 | 21  | [Merge Two Sorted Lists](21-merge-two-sorted-lists) |
 
----
 
 ## 📁 Folder Structure
 
@@ -25,6 +24,11 @@ leetcode-solutions/
 ```
 
 > Solution files are in Java (`Solution.java`)  
-> Each folder may include a `README.md` with a link to problem description.
+> Each folder include a `README.md` with a link to problem description.
 
+```markdown
+👩‍💻❤️ Happy Coding!
+```
+
+---
 
