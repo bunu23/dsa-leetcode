@@ -4,6 +4,7 @@
 - [🔹 Singly Linked List](#singly-linked-list)
 - [🔹 Doubly Linked List](#doubly-linked-list)
 
+
 ---
 
 # Linked List
@@ -36,6 +37,9 @@ head
 | 5    |        | →  | 15   |        | →  | 25   |        | →  | 35   |        | →
 +------+--------+    +------+--------+    +------+--------+    +------+--------+
 ```
+
+[Implementation of Singly Linked List](SinglyLinkedList.java)
+[Demo Code]()
 
 ---
 
@@ -70,6 +74,9 @@ Each `[value]` is a node.
 - **Singly Linked List** has only a **next pointer**, making traversal possible only in the forward direction.
 - **Doubly Linked List** has both **next** and **previous pointers**, making traversal possible in both **forward** and **backward** directions.
 - Since singly linked list move in forward direction so in order to break any chain or any node in between singly linked list we usually need a pointer to its previous node to delete the node after it but in doubly linked list as we have two pointers to traverse in forward and backward, therefore we don’t need any pointer to its previous node.
+
+[Implementation of Doubly Linked List]()
+[Demo Code]()
 
 ---
 
