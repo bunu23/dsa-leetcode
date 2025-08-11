@@ -3,7 +3,9 @@
 - [📖 What is Linked List?](#linked-list)
 - [🔹 Singly Linked List](#singly-linked-list)
 - [🔹 Doubly Linked List](#doubly-linked-list)
-
+- [🔹 Circular Linked List](#circular-linked-list)
+  - [🔸 Circular Singly Linked List](#circular-singly-linked-list)
+  - [🔸 Circular Doubly Linked List](#circular-doubly-linked-list)
 
 ---
 
@@ -82,6 +84,52 @@ Each `[value]` is a node.
 
 ---
 
+## Circular Linked List
 
+A **Circular Linked List** is a linear data structure where the last node’s pointer connects back to the first node, forming a closed loop.
+It can be **singly circular** or **doubly circular**, depending on whether nodes have one pointer (`next`) or two (`next` and `prev`).
+
+* **No `null` in next pointer**: Instead of terminating at `null` (as in a singly linked list), the `next` pointer of the last node points to the first node.
+* **Continuous traversal**: You can start at any node and traverse the entire list without hitting an endpoint.
+
+### **Types of Circular Linked Lists**
+
+#### **Circular Singly Linked List**
+
+* Each node has:
+
+  * `data` (value stored in node)
+  * `next` (pointer to next node)
+* The last node’s `next` points to the first node.
+* Traversal is **one-directional** (forward only).
+
+**Example structure**:
+
+```
+[10] → [20] → [30] → [40] ↘
+ ↑_________________________↑
+```
+
+---
+
+#### **Circular Doubly Linked List**
+
+* Each node has:
+
+  * `data`
+  * `next` (pointer to next node)
+  * `prev` (pointer to previous node)
+* The last node’s `next` points to the first node, and the first node’s `prev` points to the last node.
+* Traversal is **bi-directional** (forward and backward).
+
+**Example structure**:
+
+```
+[10] ⇄ [20] ⇄ [30] ⇄ [40]
+  ↑_____________________↓
+```
+
+
+---
 
   
