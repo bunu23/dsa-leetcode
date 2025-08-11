@@ -129,6 +129,9 @@ It can be **singly circular** or **doubly circular**, depending on whether nodes
   ↑_____________________↓
 ```
 
+☕ [Implementation of Circular Singly Linked List](basic/CircularSinglyLinkedList.java)
+
+💻 [Demo Code](operations/circular-linked-list)
 
 ---
 
