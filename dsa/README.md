@@ -4,7 +4,7 @@
 
 ➡️ [Types of Data Structures](#types-of-data-structures)
 
-➡️ [📁 Subfolders : Contains different data structure implementations and explanations](#-subfolders)
+📁  [Subfolders : Contains different data structure implementations and explanations](#-subfolders)
 
 # Introduction to Data Structures
 
@@ -44,9 +44,10 @@ Similarly, **data structures organize data in a way that helps programs find and
 
 ## 📁 Subfolders
 
-| Folder Name           | Description                                |
-|-----------------------|--------------------------------------------|
-| [array](array/)       | Array implementations and explanations     |
+| Folder Name                            | Description                                      |
+|----------------------------------------|--------------------------------------------------|
+| [array](array/)                        | Array implementations and explanations           |
+| [linked-list](linked-list/)            | Linked List implementations and explanations     |
 
 
 [⬆️ ](#quick-links)
