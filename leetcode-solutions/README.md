@@ -6,6 +6,7 @@
 |-----|-------------------------------------------------------------|
 | 2  | [Add Two Numbers](2-add-two-numbers) |
 | 21  | [Merge Two Sorted Lists](21-merge-two-sorted-lists) |
+| 27  | [Remove Element](27-remove-element) |
 
 
 ## 📁 Folder Structure
