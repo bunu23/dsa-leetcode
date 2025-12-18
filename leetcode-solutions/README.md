@@ -8,6 +8,7 @@
 | 21  | [Merge Two Sorted Lists](21-merge-two-sorted-lists) |
 | 27  | [Remove Element](27-remove-element) |
 | 35  | [Search Insert Position](35-search-insert-position) |
+| 88  | [Merge Sorted Array](88-merge-sorted-array) |
 
 
 ## 📁 Folder Structure
