@@ -10,6 +10,8 @@
 | 35  | [Search Insert Position](35-search-insert-position) |
 | 66  | [Plus One](66-plus-one) |
 | 88  | [Merge Sorted Array](88-merge-sorted-array) |
+| 217  | [Contains Duplicate](217-contains-duplicate) |
+
 
 
 ## 📁 Folder Structure
