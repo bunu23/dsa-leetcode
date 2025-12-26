@@ -11,7 +11,7 @@
 | 66  | [Plus One](66-plus-one) |
 | 88  | [Merge Sorted Array](88-merge-sorted-array) |
 | 217  | [Contains Duplicate](217-contains-duplicate) |
-| 219  | [Contains Duplicate II](219-contains-duplicate-II) |
+| 219  | [Contains Duplicate II](219.contains-duplicate-II) |
 
 
 
