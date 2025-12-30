@@ -48,6 +48,7 @@ Similarly, **data structures organize data in a way that helps programs find and
 |----------------------------------------|--------------------------------------------------|
 | [array](array/)                        | Array implementations and explanations           |
 | [linked-list](linked-list/)            | Linked List implementations and explanations     |
-
+| [stack](stack/)                        | Stack implementations and explanations           |
+ 
 
 [⬆️ ](#quick-links)
