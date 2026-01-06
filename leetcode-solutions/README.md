@@ -12,6 +12,7 @@
 | 88  | [Merge Sorted Array](88-merge-sorted-array) |
 | 217  | [Contains Duplicate](217-contains-duplicate) |
 | 219  | [Contains Duplicate II](219.contains-duplicate-II) |
+| 806  | [Number of Lines To Write String](806-numbers-of-lines-to-write-string) |
 
 
 
