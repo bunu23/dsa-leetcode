@@ -13,6 +13,7 @@
 | 217  | [Contains Duplicate](217-contains-duplicate) |
 | 219  | [Contains Duplicate II](219.contains-duplicate-II) |
 | 806  | [Number of Lines To Write String](806-numbers-of-lines-to-write-string) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](1299-replace-elements-with-greatest-element-on-right-side) |
 
 
 
